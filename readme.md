@@ -1,5 +1,5 @@
 # Total.js: Empty Project
 
 - Install Total.js via NPM `$ npm install total.js`
-- Donwload example
+- Download example
 - Run it `$ node debug.js`
