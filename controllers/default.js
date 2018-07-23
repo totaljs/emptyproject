@@ -1,7 +1,7 @@
 exports.install = function() {
-	F.route('/', view_index);
+	ROUTE('/', view_index);
 	// or
-	// F.route('/');
+	// ROUTE('/');
 };
 
 function view_index() {
