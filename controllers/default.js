@@ -1,10 +1,3 @@
 exports.install = function() {
-	ROUTE('/', view_index);
-	// or
-	// ROUTE('/');
+	ROUTE('GET /');
 };
-
-function view_index() {
-	var self = this;
-	self.view('index');
-}
