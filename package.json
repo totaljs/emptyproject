@@ -4,10 +4,10 @@
 	"version": "1.0.0",
 	"main": "index.js",
 	"dependencies": {
-		"total4": "latest"
+		"total5": "latest"
 	},
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+	    "start": "node index.js 8000"
 	},
 	"keywords": ["empty", "project"],
 	"author": "Peter Širka",
